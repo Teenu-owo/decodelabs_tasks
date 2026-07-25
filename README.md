@@ -34,9 +34,15 @@ Week 3: SQL Queries & Analysis Output (part 1)
 Week 3: SQL Queries & Analysis Output (part 2)
 <img width="957" height="481" alt="Screenshot 2026-07-10 160732" src="https://github.com/user-attachments/assets/a0f33655-896d-47b7-bf6b-bfe6810640b5" />
 
+Week 4: Final Interactive E-Commerce Dashboard
+<img width="591" height="333" alt="Screenshot 2026-07-25 121309" src="https://github.com/user-attachments/assets/4f0a76a1-8627-4f59-a53b-d2b82659c473" />
+
+
 ## How to View the Project
 Data Cleaning & EDA: Open the respective files in the Week 1 and Week 2 folders using Microsoft Excel to view formulas and pivot tables.
 
 SQL Queries: Open and execute the .'sql' script in the 'Week 3- SQL Data Analysis' folder using SSMS or any text editor.
+
+Dashboard: Open the dashboard file in 'Week-4 Dashboard Development' to interact with the visualization.
 
 
