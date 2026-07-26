@@ -43,6 +43,6 @@ Data Cleaning & EDA: Open the respective files in the Week 1 and Week 2 folders 
 
 SQL Queries: Open and execute the .'sql' script in the 'Week 3- SQL Data Analysis' folder using SSMS or any text editor.
 
-Dashboard: Open the dashboard file in 'Week-4 Dashboard Development' to interact with the visualization.
+Dashboard: Open the dashboard file in 'Week-4 Dashboard Visualization' to interact with the visualization.
 
 
